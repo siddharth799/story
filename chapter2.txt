@@ -1,0 +1,1 @@
+testing remote commit git repository with the help of terminal
